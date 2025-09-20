@@ -4,6 +4,13 @@ Ce projet a été réalisé en groupe dans le cadre du **Travail Pratique 1 (TP1
 
 ---
 
+- **Titre du projet :** Super Bonus IA  
+- **Date de réalisation :** 20 septembre 2025  
+- **Type de projet :** Travail individuel  
+- **Moteur de développement :** Unreal Engine
+
+---
+
 ## Objectif du projet  
 L’objectif de ce travail était de concevoir et de développer une intelligence artificielle simple intégrée dans un environnement de jeu vidéo, en utilisant le moteur **Unreal Engine**. Ce projet constitue une introduction pratique aux concepts d’IA appliqués aux jeux.  
 
